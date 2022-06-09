@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="case2202210060000584">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>
